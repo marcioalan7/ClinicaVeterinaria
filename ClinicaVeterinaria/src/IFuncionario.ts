@@ -1,4 +1,4 @@
-interface IFuncionario{
+interface Funcionario{
 
     calcularBonus():void
     alterarSalario(novoSalario:number):void
